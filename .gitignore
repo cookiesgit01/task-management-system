@@ -1,0 +1,10 @@
+node_modules/ 
+task-managment-backend/node_modules/ 
+task-managment-frontend/node_modules/ 
+logs 
+*.log 
+npm-debug.log* 
+dist/ 
+build/ 
+.DS_Store 
+Thumbs.db 
